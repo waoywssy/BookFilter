@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <Filter
+    sourcePath="C:\Users\jobs\Desktop\New folder"
+    targetPath="D:\Book\Kindle"
+    patten ="*.azw3"
+  />
+</config>
